@@ -37,9 +37,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-plain.svg" title="d3js" **alt="d3js" width="40" height="40"/>
 </div>
+
 ---
+
 ### :fire: My Stats :
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sddushkevich&theme=sea-dark&border_radius=20&date_format=M%20j%5B%2C%20Y%5D)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sddushkevich&layout=compact)
+
 <div align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sddushkevich&theme=sea-dark&border_radius=20&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)]
+  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sddushkevich&theme=sea-dark&border_radius=20&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</div>
+
+<div align="center">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sddushkevich&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
