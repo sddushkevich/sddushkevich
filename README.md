@@ -14,6 +14,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
 </h2>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
+</div>
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angularjs" alt="angularjs" width="40" height="40"/>&nbsp;
@@ -43,12 +47,4 @@
 ### :fire: My Stats :
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sddushkevich&theme=sea-dark&border_radius=20&date_format=M%20j%5B%2C%20Y%5D)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sddushkevich&layout=compact)
-
-<div align="center">
-  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sddushkevich&theme=sea-dark&border_radius=20&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</div>
-
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sddushkevich&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=sddushkevich&show_icons=true&theme=cobalt2">
