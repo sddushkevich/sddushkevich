@@ -19,7 +19,7 @@
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angularjs" alt="angularjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
@@ -45,7 +45,8 @@
 ---
 
 ### :fire: My Stats :
-
+<div align="center">
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sddushkevich&theme=sea-dark&border_radius=20&date_format=M%20j%5B%2C%20Y%5D)
 <img src="https://github-readme-stats.vercel.app/api?username=sddushkevich&show_icons=true&theme=cobalt2">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sddushkevich&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
