@@ -10,7 +10,7 @@
   </a>
 </div>
 <h2 align="center">
-  Hey there!
+  Hey there, nice to meet you! I'm Stanislav, frontend software developer from Belarus.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
 </h2>
 
@@ -48,3 +48,4 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sddushkevich&theme=sea-dark&border_radius=20&date_format=M%20j%5B%2C%20Y%5D)
 <img src="https://github-readme-stats.vercel.app/api?username=sddushkevich&show_icons=true&theme=cobalt2">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
